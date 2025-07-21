@@ -1,6 +1,6 @@
 class DocDragon {
     constructor() {
-        this.apiKey = "AIzaSyDfKwR1dGsb6A9y0NHvynxfSSCjfNfjVeI"; // Replace with your actual API key
+        this.apiKey = "xxxxxxxxxxxxxxxxx"; // Replace with your actual API key
         this.apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
         
         this.chatMessages = document.getElementById('chatMessages');
